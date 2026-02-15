@@ -1,13 +1,13 @@
 {
-  "name": "Nimble Monster Tracker",
+  "name": "Nimble Monster Tracker - Forked",
   "description": "A tool for uploading Nimble statblocks and assigning them to tokens.",
   "version": "2.0.0",
   "manifest_version": 1,
-  "author": "nilskk",
+  "author": "nilskk-forked-by-seza443",
   "action": {
     "title": "Nimble Monster Tracker",
-    "icon": "/owlbear-nimble-monster-tracker/icon.svg",
-    "popover": "/owlbear-nimble-monster-tracker/",
+    "icon": "/icon.svg",
+    "popover": "/",
     "height": 800,
     "width": 600
   }
